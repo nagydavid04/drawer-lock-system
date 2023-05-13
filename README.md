@@ -4,6 +4,7 @@ This drawer lock system is a raspberry pi pico project using a 12V electromagnet
 - 12V adapter
 ![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)
 - 12V solenoid lock
+![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)
 - rasberry pi pico
 - printed circuit
 - 4x4 matrix keyboard
