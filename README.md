@@ -8,7 +8,8 @@ This drawer lock system is a raspberry pi pico project using a 12V electromagnet
 - 4x4 matrix keyboard
 - keep plate
 
-![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)![solenoid lock](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/eab4863c-76c5-4b7f-aa24-b8c48d628fe4)![rpi pico](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/43f80fe5-667f-4f40-9669-33b1c76c43e1)![printed_circuit](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/92e83387-ff20-4b0c-a7e9-9aa6fcf64c47)![matrix keyboard](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/a8164ffc-6f5c-4f79-8f55-1a30b41be688)![keep_plate](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/790f46bc-4aa3-4cb4-a248-26bccbdad8a6)
+![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)![solenoid lock](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/eab4863c-76c5-4b7f-aa24-b8c48d628fe4)![rpi pico](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/43f80fe5-667f-4f40-9669-33b1c76c43e1)![printed_circuit](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/92e83387-ff20-4b0c-a7e9-9aa6fcf64c47)![matrix keyboard](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/a8164ffc-6f5c-4f79-8f55-1a30b41be688)![keep_plate](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/e70eff3d-817e-47cc-99cc-f24ad7b4bd93)
+
 
 
 
