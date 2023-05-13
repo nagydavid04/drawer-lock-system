@@ -8,7 +8,8 @@ This drawer lock system is a raspberry pi pico project using a 12V electromagnet
 - 4x4 matrix keyboard
 - keep plate
 
-![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)![solenoid lock](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/eab4863c-76c5-4b7f-aa24-b8c48d628fe4)
+![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)![solenoid lock](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/eab4863c-76c5-4b7f-aa24-b8c48d628fe4)![rpi pico](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/43f80fe5-667f-4f40-9669-33b1c76c43e1)
+
 ## Function
 The adapter gives the circuit 12V which powers the pico with 5V and the lock with 12V. The pico starts to listen the keyboard, logs the keypresses and does the logic.
 ```mermaid
