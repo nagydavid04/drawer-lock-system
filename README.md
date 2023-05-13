@@ -1,12 +1,13 @@
 # drawer-lock-system
 This drawer lock system is a raspberry pi pico project using a 12V electromagnetic lock. I can say that its strength is excellent after many testing and forcing, and the code which does the logic of the system is simple but effective. One problem I have experienced is that the matrix keyboard I'm using is not a great choice for taking the pin code because it is willing to not notice a press or may detect it twice.
 ## Elements
-- 12V adapter![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)
+- 12V adapter
 - 12V solenoid lock
 - rasberry pi pico
 - printed circuit
 - 4x4 matrix keyboard
 - keep plate
+![12V adapter](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/f5b90aa8-7c51-4d83-a6f2-b8afcdcd3645)!![solenoid lock](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/eab4863c-76c5-4b7f-aa24-b8c48d628fe4)
 ## Function
 The adapter gives the circuit 12V which powers the pico with 5V and the lock with 12V. The pico starts to listen the keyboard, logs the keypresses and does the logic.
 ```mermaid
