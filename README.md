@@ -21,13 +21,13 @@ D[matrix keyboard] --> B[printed circuit]
 The pin code must contain 4 digits. The default pin is 0000.
 ### Opening the lock
 - Type in the pin code.
-- Confirm it with "#" to open the lock.
+- Press "#" to open the lock.
 ### Changing the pin code
 - Type in the pin code.
 - Get admin access with "A".
 - Type in the new pin code.
 > **Remember that the pin code must be 4 digits long!**
 - Press "B" to confirm it and to leave admin mode, or if you are unsure, you can always press the "*" button to reset your input.
-> **After every change, like getting admin access or changing the code, the lock will open for 0.05 secs to confirm it.**
+> **If you want to leave admin mode without changing the code just press "D".**
 
-> **If you want to leave admin mode without changing the code you have to press "D".**
+> **After every change, like getting admin access or changing the code, the lock will open for 0.05 seconds to confirm it.**
