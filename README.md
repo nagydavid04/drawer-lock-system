@@ -37,5 +37,6 @@ The pin code must contain 4 digits. The default pin is 0000.
 ![IMG_0643](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/d6d1e50c-617e-4174-b523-c87a61fdd30b)
 ![IMG_0660](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/276d78a9-9090-4abb-8a37-c9f652150879)
 ![IMG_0657](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/b0e56d1f-ef1f-430d-810a-7b1d5faff7d1)
+![IMG_0655](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/d0dba740-7aac-4df1-be2f-8c2252d8261e)
 ![IMG_0675](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/6a969ec4-07de-46d3-ba75-a1abefa76a0d)
 ![IMG_0688](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/03fadebd-1981-4aa5-92d5-879a5544d172)
