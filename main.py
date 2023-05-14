@@ -76,7 +76,7 @@ while 1:
             
             elif key == "D":
                 access = False
-		            unlock(0.05)
+		unlock(0.05)
             
             user_input = ""
 
