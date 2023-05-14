@@ -1,5 +1,5 @@
 # drawer-lock-system
-This drawer lock system is a raspberry pi pico project using a 12V electromagnetic lock. I can say that its strength is excellent after many testing and forcing, and the code which does the logic of the system is simple but effective. One problem I have experienced is that the matrix keyboard I'm using is not a great choice for taking the pin code because it is willing to not notice a press or may detect it twice.
+This drawer lock system is a raspberry pi pico project using a 12V electromagnetic lock. I can say that its strength is excellent after many testing and forcing, and the code which does the logic of the system is simple but effective. One problem I have experienced is that the matrix keyboard I'm using is not a great choice for taking the pin code because it sometimes doesn't notice presses or noitice.
 ## Elements
 - 12V adapter
 - 12V solenoid lock
