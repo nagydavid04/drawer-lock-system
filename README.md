@@ -33,3 +33,8 @@ The pin code must contain 4 digits. The default pin is 0000.
 > **If you want to leave admin mode without changing the code just press "D".**
 
 > **After every change, like getting admin access or changing the code, the lock will open for 0.05 seconds to confirm it.**
+# Pictures
+![IMG_0643](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/d6d1e50c-617e-4174-b523-c87a61fdd30b)
+![IMG_0660](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/276d78a9-9090-4abb-8a37-c9f652150879)
+![IMG_0657](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/b0e56d1f-ef1f-430d-810a-7b1d5faff7d1)
+![IMG_0675](https://github.com/nagydavid04/drawer-lock-system/assets/132921246/6a969ec4-07de-46d3-ba75-a1abefa76a0d)
